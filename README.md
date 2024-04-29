@@ -1,4 +1,4 @@
-# DataEngineering-E2E
+# DBT Airflow Data Migration Pipeline
 A simple data pipeline showcasing migration of data between 2 Postgres DBs with DBT as skeleton and Airflow as Automation.
 
 STEPS TO RUN THIS APP:
